@@ -1,0 +1,6 @@
+
+Ollama	- Runs the language model
+Qwen 2.5	- Understands and generates responses
+LangChain -	Connects the model with tools
+Python - function	Performs the calculation
+Agent loop -	Coordinates tool calls and responses
